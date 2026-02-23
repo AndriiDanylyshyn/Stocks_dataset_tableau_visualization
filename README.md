@@ -2,7 +2,7 @@
 > Tableau dashboard build for visualization of changes in stock prices and portfolio revenue
 
 ## Overview
-
+![](img/dashboard.png)
 This repository contains Tableau dashboard that provides data visualization and metrics of 5 different stocks and profit or loss of created portfolio based on stocks.
 Current project contains some basic interactions with Tableau and contains following charts:
 * Stock performance chart
